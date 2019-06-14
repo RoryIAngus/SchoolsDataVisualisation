@@ -20,9 +20,7 @@ Data from earlier years is not replaced in the Class Size fact sheet. Schools ch
 
 Refer to the individual publication for further information and policy context.
 
-Data Source:
-
-Statistics Unit. Centre for Education Statistics and Evaluation.
+Data Source:Statistics Unit. Centre for Education Statistics and Evaluation.
 
 ## 02 - Multi-age or composite classes in NSW government schools (2014-2018)
 Link: https://data.cese.nsw.gov.au/data/dataset/multi-age-or-composite-classes-in-nsw-government-schools
@@ -39,11 +37,34 @@ Historical data displays the data that was correct in that year.
 
 Refer to the individual publication for further information and policy context.
 
-Data source:
+Data source: Early Learning and Primary Education. NSW Department of Education.
 
-Early Learning and Primary Education. NSW Department of Education.
-## 03 - 
-Link:
+## 03 - Master dataset: NSW government school locations and student enrolment numbers
+Link: https://data.cese.nsw.gov.au/data/dataset/027493b2-33ad-3f5b-8ed9-37cdca2b8650
+
+The master dataset contains comprehensive information for all government schools in NSW. Data items include school locations, latitude and longitude coordinates, school type, student enrolment numbers, electorate information, contact details and more.
+
+This dataset is publicly available through the Data NSW website, and is used to support the School Finder tool.
+
+Data Notes:
+
+Student enrolment numbers are based on the census of government school students undertaken on the first Friday of August.
+
+School information, such as addresses and contact details, are updated regularly as required, and are the most current source of information.
+
+Data is suppressed for indigenous and LBOTE percentages where student numbers are equal to, or less than five.
+
+NSSC out of scope schools will not have an enrolment figure.
+
+NSSC and LBOTE figures are updated annually in December.
+
+ICSEA values are updated every April with the previous year's ICSEA values. The master dataset is currently displaying 2016 figures. Small schools, SSPs and Senior Secondary schools do not have their ICSEA values published by ACARA.
+
+Following the introduction of part-time study in secondary schools in 1993, student enrolments are generally reported in full-time equivalent units (FTE). The FTE for students studying less than 10 units, the minimum workload, is determined by the formula: 0.1 x the number of units studied and represented as a proportion of the full-time enrolment of 1.0 FTE.
+
+Norfolk Island Central School (NICS) is not a NSW government school. NICS is operated by the Australian government. The NSW Department of Education provides school education services under an agreement with the Australian government.
+
+Data Source: Statistics and Analysis Unit. Centre for Education Statistics and Evaluation.
 
 ## 04 - 
 Link:
